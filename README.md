@@ -1,2 +1,1 @@
-# MSc-RAG
-RAG Project for MSc
+# RAG-2
